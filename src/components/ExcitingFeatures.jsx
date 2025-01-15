@@ -38,7 +38,7 @@ const user = [
     },
     {
         title: "Create friendship groups to organize event attendance",
-        image: "/assets/img/e-feature-8.png",
+        image: "/assets/img/Frame6.png",
         category: "end-user"
     },
     {
