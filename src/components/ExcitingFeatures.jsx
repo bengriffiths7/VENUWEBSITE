@@ -37,7 +37,7 @@ const user = [
         category: "end-user"
     },
     {
-        title: "Create friendship groups to organize event attendance",
+        title: "Create communities that can be public or private, to make organising meetups of like minded people effortless",
         image: "/assets/img/Frame6.png",
         category: "end-user"
     },

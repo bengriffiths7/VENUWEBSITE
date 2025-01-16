@@ -163,9 +163,9 @@ const Hero = () => {
                             ))}
                         </div>
 
-                        <p className="text-black font-inter md:text-xl">
+                        {/* <p className="text-black font-inter md:text-xl">
                             <span className="text-[#8B3EF8] font-bold">10529</span> people have joined us already
-                        </p>
+                        </p> */}
                     </div>
                 </div>
             )}
