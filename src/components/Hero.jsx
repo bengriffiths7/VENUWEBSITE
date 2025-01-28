@@ -38,7 +38,7 @@ const Hero = () => {
 
         // Send the email to your backend API
         try {
-            const response = await fetch('https://venu-app.com:3000/api/send-email', {
+            const response = await fetch('https://api.venu-app.com/api/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

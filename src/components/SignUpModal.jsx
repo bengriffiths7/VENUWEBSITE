@@ -29,7 +29,7 @@ export default function SignUpModal({ isOpen, setIsOpen }) {
 
         // Send the form data to the backend
         try {
-            const response = await fetch('https://venu-app.com:3000/api/send-email', {  // Replace with your backend endpoint
+            const response = await fetch('https://api.venu-app.com/api/send-email', {  // Replace with your backend endpoint
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
