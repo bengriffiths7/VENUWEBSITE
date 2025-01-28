@@ -82,7 +82,7 @@ const Hero = () => {
                         </span> <br />Social <span className="relative p-1"><img src='/assets/img/vector-hero-img.png' className="bg-cover inline absolute w-[300px] h-[34px] lg:w-[693px] lg:h-[56px]" /> Network</span></span>
                     </h1>
                     <p className="lg:text-lg md:px-6 my-6 font-inter font-normal md:w-[85%]">
-                        Connect your business to a thriving community that helps users discover real-time venue and event info tailored to their interests and social circles, making it easy to explore, organize, and attend together!</p>
+                        Connect your business to a thriving community that helps users discover real-time venue and event info tailored to their interests and social circles, making it easy to explore, organize, and attend together.</p>
                     <p className="lg:text-lg md:px-6 my-4 font-general font-semibold">
                         Show Your Interest In The Pre-Launch Beta</p>
                     <div className="flex flex-col sm:flex-row items-center font-medium md:text-base font-inter space-x-2 px-6">
