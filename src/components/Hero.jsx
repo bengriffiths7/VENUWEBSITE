@@ -84,7 +84,7 @@ const Hero = () => {
                     <p className="lg:text-lg md:px-6 my-6 font-inter font-normal md:w-[85%]">
                         Connect your business to a thriving community that helps users discover real-time venue and event info tailored to their interests and social circles, making it easy to explore, organize, and attend together.</p>
                     <p className="lg:text-lg md:px-6 my-4 font-general font-semibold">
-                        Show Your Interest In The Pre-Launch Beta</p>
+                        Sign up for our early access waitling list</p>
                     <div className="flex flex-col sm:flex-row items-center font-medium md:text-base font-inter space-x-2 px-6">
                         <input
                             type="email"
